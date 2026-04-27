@@ -1,4 +1,4 @@
-# Schulich UAV — My Experience & Progression (Liam Mah)
+# Schulich UAV — My Experience & Progression
 
 
 ## Overview
@@ -102,8 +102,8 @@ The most challenging areas were control systems and networking. With no prior ex
 On the networking side, I selected a RocketM5 radio to provide high-bandwidth, reliable communication without cellular dependency (critical for remote competition environments). This enabled SSH access over a local network, allowing the ground station to trigger operations via API requests (image capture, geodata transmission, payload deployment).
 
 <p align="center">
-  <img src="Photos/Zenith/RocketM5GroundSide.jpg" width="300"/>
-  <img src="Photos/Zenith/RocketM5PlaneSide.jpg" width="300"/>
+  <img src="Photos/Zenith/RocketM5GroundSide.JPG" width="300"/>
+  <img src="Photos/Zenith/RocketM5PlaneSide.JPG" width="300"/>
   <br/>
   <sub><b>Figure 7.</b> RocketM5 radio link enabling high-bandwidth communication between ground station and aircraft.</sub>
 </p>
@@ -160,7 +160,7 @@ This year, the team transitioned back to a fully custom fixed-wing platform. Thi
 A major focus for me was strengthening our **electrical architecture**, requiring me to rapidly deepen my understanding beyond software in order to effectively lead cross-disciplinary work.
 
 <p align="center">
-  <img src="Photos/Orca/Electronics.PNG" width="300"/>
+  <img src="Photos/Orca/Electronics.png" width="300"/>
   <br/>
   <sub><b>Figure 13.</b> Electrical architecture developed in collaboration with the electrical team.</sub>
 </p>
@@ -197,7 +197,7 @@ One example involved control surface instability that was only reproducible by a
   <sub><b>Figure 15.</b> Debugging control instability caused by airspeed-related PID scaling.</sub>
 </p>
 
-As flight range increased, our previous telemetry system became insufficient. I upgraded the communication link by moving from 6 dBi to 15 dBi directional antennas, achieving a ~300% range increase.
+As flight range increased, our previous telemetry system became insufficient. I upgraded the communication link by moving from 6 dBi omnidirectional to 15 dBi directional antennas, achieving a ~300% range increase.
 
 <p align="center">
   <img src="Photos/Orca/TelemetryChallenge.png" width="300"/>
