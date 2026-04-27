@@ -222,7 +222,7 @@ This remains one of the accomplishments I am most proud of.
 
 Check out more:
 - [▶ Competition Recap](https://www.youtube.com/watch?v=ACizj0ecJ4E&t)
-- [📄 Technical Design Report](docs/TDR_SchulichUAV_SUAS2025.pdf)
+- [📄 Technical Design Report](Docs/TDR_SchulichUAV_SUAS2025.pdf)
 
 ---
 
