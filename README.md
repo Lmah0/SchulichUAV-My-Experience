@@ -65,7 +65,7 @@ During this time, I also began working with ground control systems to support ba
 
 ---
 
-### **2023–2024** — Zenith  
+### **2023–2024** — [Zenith](https://www.youtube.com/watch?v=PW2u0xzuJQs)
 *Software Lead*
 
 This was a major step up as I became Software Lead following the graduation of nearly the entire previous team, leaving only two returning members. With limited prior experience and no existing system to build on, I was responsible for recruiting a new team while independently designing and implementing the software stack.
@@ -142,7 +142,7 @@ We deployed this system at SUAS 2024, placing **1st among Canadian teams** and i
 
 ---
 
-### **2024–2025** — Orca  
+### **2024–2025** — [Orca](https://www.youtube.com/watch?v=NyUEc9znnls)
 *Avionics Lead (Electrical, Software, Geomatics, Systems Engineering) & Vice President*
 
 This year, I served as the lead and most senior engineer across software, electrical, geomatics, and systems engineering, leading a team of ~40 students. I was responsible for all non-mechanical engineering and held final accountability for system-level decisions and flight safety.
@@ -220,8 +220,9 @@ This remains one of the accomplishments I am most proud of.
   <sub><b>Figure 17.</b> SUAS competition team photo with McGill.</sub>
 </p>
 
-Check out the competition recap:  
-https://www.youtube.com/watch?v=ACizj0ecJ4E&t
+Check out more:
+- [▶ Competition Recap](https://www.youtube.com/watch?v=ACizj0ecJ4E&t)
+- [📄 Technical Design Report](docs/TDR_SchulichUAV_SUAS2025.pdf)
 
 ---
 
