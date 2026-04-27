@@ -192,7 +192,7 @@ A recurring challenge was debugging issues that spanned multiple subsystems.
 One example involved control surface instability that was only reproducible by arming the aircraft in a semi-autonomous mode at low airspeeds. After calling off a flyday, I brought the aircraft home and set it up in my living room to debug the system end-to-end to isolate the issue.
 
 <p align="center">
-  <img src="Photos/Orca/AirSpeedSensorDebug.JPG" width="300"/>
+  <img src="Photos/Orca/AirspeedSensorDebug.JPG" width="300"/>
   <br/>
   <sub><b>Figure 15.</b> Debugging control instability caused by airspeed-related PID scaling.</sub>
 </p>
